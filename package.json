@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "front-end-mono-repo",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+  }
+}
